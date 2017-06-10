@@ -1,4 +1,4 @@
-# Curso Git
+# Curso Git e Github
 
 Arquivos do curso de Git e Github
 
