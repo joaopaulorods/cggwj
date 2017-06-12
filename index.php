@@ -6,5 +6,7 @@
 </head> 
 <body>
 	<p>Testando alguns comandos do curso Curso Git e Github!</p>
+	<p>Testando alguns comandos do curso Curso Git e Github!</p>
+	<p>Testando alguns comandos do curso Curso Git e Github!</p>
 </body>
 </hmtl>
